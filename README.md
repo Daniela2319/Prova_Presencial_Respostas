@@ -2,7 +2,7 @@
 
 ## Mid Map
 
-Maneira de ajuda nos estudar!📖
+Maneira de ajuda nos estudos!📖
 
 O mapa mental é uma ferramenta muito útil nos estudos, pois permite organizar as informações de forma visual e hierárquica, tornando mais fácil a compreensão e a memorização de conceitos e ideias.
 
